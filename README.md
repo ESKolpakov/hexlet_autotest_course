@@ -3,7 +3,7 @@
 capitalize('hello') # 'Hello'
 
 Запуск автотеста командой:
-PYTHONPATH=package_name python tests/test_capitalize.py
+PYTHONPATH=package_name python3 tests/test_capitalize.py
 
 Если все написано правильно, то запуск тестов завершится с
 выводом строки "Все тесты пройдены!". Если в тестах или 
